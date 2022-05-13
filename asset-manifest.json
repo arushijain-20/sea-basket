@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sea-basket/static/css/main.c0b247cc.css",
+    "main.css": "/sea-basket/static/css/main.2c718d53.css",
     "main.js": "/sea-basket/static/js/main.53bc3985.js",
     "static/js/787.52bccb8c.chunk.js": "/sea-basket/static/js/787.52bccb8c.chunk.js",
     "static/media/Group 39.png": "/sea-basket/static/media/Group 39.99c594a30f640baa0e30.png",
@@ -33,12 +33,12 @@
     "static/media/bg.jpg": "/sea-basket/static/media/bg.969dc920b0e1f7e03098.jpg",
     "static/media/Rectangle 3.png": "/sea-basket/static/media/Rectangle 3.34355e3c7c9eddc04bb0.png",
     "index.html": "/sea-basket/index.html",
-    "main.c0b247cc.css.map": "/sea-basket/static/css/main.c0b247cc.css.map",
+    "main.2c718d53.css.map": "/sea-basket/static/css/main.2c718d53.css.map",
     "main.53bc3985.js.map": "/sea-basket/static/js/main.53bc3985.js.map",
     "787.52bccb8c.chunk.js.map": "/sea-basket/static/js/787.52bccb8c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0b247cc.css",
+    "static/css/main.2c718d53.css",
     "static/js/main.53bc3985.js"
   ]
 }
