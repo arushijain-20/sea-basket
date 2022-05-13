@@ -1,5 +1,6 @@
 .faq-wrapper{
   font-family: 'Roboto';
+  background-color: #E5E5E5;
   
 
 }
@@ -9,9 +10,15 @@
 .styles_faq-row-wrapper__3vA1D {
     background-color: #E5E5E5;
 }
+.faq-wrapper .faq-body{
+  background-color: #E5E5E5;
+}
+.faq-row{
+  background-color: white;
+}
 .faq-wrapper .faq-body .faq-row {
     padding: 20px ;
-    background-color: white;
+   
     box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
     border-radius: 20px;
     width: 80%;

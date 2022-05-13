@@ -4,7 +4,7 @@ import Faq from "react-faq-component";
 import '../css/faqCard.css'
 
 const FaqCard = () => {
-    const [rows, setRowsOption] = useState(null);
+
     const data = {
       rows: [
         {
@@ -31,7 +31,7 @@ const FaqCard = () => {
       
   
         <div className="faq-wrapper">
-          <Faq data={data} getRowOptions={setRowsOption} />
+          <Faq data={data} />
         </div>
     
     );
