@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sea-basket/static/css/main.4412fb3d.css",
-    "main.js": "/sea-basket/static/js/main.2dd10b8f.js",
+    "main.css": "/sea-basket/static/css/main.af827cee.css",
+    "main.js": "/sea-basket/static/js/main.53bc3985.js",
     "static/js/787.52bccb8c.chunk.js": "/sea-basket/static/js/787.52bccb8c.chunk.js",
     "static/media/Group 39.png": "/sea-basket/static/media/Group 39.99c594a30f640baa0e30.png",
     "static/media/demo.jpg": "/sea-basket/static/media/demo.e46ac9364ee94057796a.jpg",
@@ -33,12 +33,12 @@
     "static/media/bg.jpg": "/sea-basket/static/media/bg.969dc920b0e1f7e03098.jpg",
     "static/media/Rectangle 3.png": "/sea-basket/static/media/Rectangle 3.34355e3c7c9eddc04bb0.png",
     "index.html": "/sea-basket/index.html",
-    "main.4412fb3d.css.map": "/sea-basket/static/css/main.4412fb3d.css.map",
-    "main.2dd10b8f.js.map": "/sea-basket/static/js/main.2dd10b8f.js.map",
+    "main.af827cee.css.map": "/sea-basket/static/css/main.af827cee.css.map",
+    "main.53bc3985.js.map": "/sea-basket/static/js/main.53bc3985.js.map",
     "787.52bccb8c.chunk.js.map": "/sea-basket/static/js/787.52bccb8c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4412fb3d.css",
-    "static/js/main.2dd10b8f.js"
+    "static/css/main.af827cee.css",
+    "static/js/main.53bc3985.js"
   ]
 }
